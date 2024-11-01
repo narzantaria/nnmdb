@@ -1,0 +1,8 @@
+{
+  "name": "txtdb",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "https://github.com/narzantaria/txtdb.git",
+  "author": "Nar Zantaria <narzantaria@gmail.com>",
+  "license": "MIT"
+}
