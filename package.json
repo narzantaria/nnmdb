@@ -1,8 +1,8 @@
 {
-  "name": "txtdb",
+  "name": "nnmdb",
   "version": "0.0.1",
   "main": "dist/index.js",
-  "repository": "https://github.com/narzantaria/txtdb.git",
+  "repository": "https://github.com/narzantaria/nnmdb.git",
   "author": "Nar Zantaria <narzantaria@gmail.com>",
   "license": "MIT"
 }
